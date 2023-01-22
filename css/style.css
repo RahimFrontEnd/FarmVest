@@ -1165,9 +1165,7 @@ body {
           transform: translate(0px, 0px);
 }
 
-.why__image {
-  padding: 0 !important;
-}
+
 
 .steps-why {
   list-style-type: none;
@@ -3132,4 +3130,7 @@ body {
   .menu-footer__link:hover {
     text-decoration: underline;
   }
+}
+.why__image {
+  padding: 0 !important;
 }
